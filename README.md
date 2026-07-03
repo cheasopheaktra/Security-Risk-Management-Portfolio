@@ -24,7 +24,7 @@ This portfolio demonstrates the achievement of the following learning outcomes:
 
 * **Unit 8: Team Collaboration & Planning**
     * **Description:** Documentation of collaborative activities, including discussion forum summaries and team coordination notes with Sarah Khalid.
-    * **Evidence:** [Discussion_Summary_Peer_Responses.pdf](Discussion_Summary_Peer_Responses.pdf), [Team_Meeting_Notes_Group3.pdf](Team_Meeting_Notes_Group3.pdf)
+    * **Evidence:** [Discussion_Summary_Peer_Responses.pdf](Collaborative%20Learning%20Discussion%20Summary.pdf), [Team_Meeting_Notes_Group3.pdf](Team_Meeting_Notes_Group3.pdf)
 
 * **Unit 11: Final Executive Summary & Quantitative Risk Model**
     * **Description:** The module culmination featuring a Decision Tree risk model, Active-Active Disaster Recovery architecture, and implementation planning.
