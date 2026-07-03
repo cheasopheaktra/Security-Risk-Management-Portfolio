@@ -16,13 +16,15 @@ The following core artefacts explain how my work has progressed from the first a
 
 * **Artefact 1: Risk Identification and Digitalisation Strategy Report (Unit 6)**
     * **Description:** A detailed risk analysis for the client ‘Pampered Pets’ between physical operations and a projected digital transformation[cite: 5]. This used the ISO-IEC 27005 framework for physical assets and the STRIDE approach for cloud environments[cite: 5].
-    * **Evidence:** `[Insert Link to Risk Identification Report PDF Here]`
+    * **Evidence:** [[Risk Identification  Report-Group 3.pdf](https://github.com/cheasopheaktra/Security-Risk-Management-Portfolio/blob/9f622d165a4fedd82b2dc86c13cdefbeb873bb82/Risk%20Identification%20%20Report-Group%203.pdf)]
 * **Artefact 2: Network & Security Architecture Diagrams** 
     * **Description:** Technical diagrams I created to illustrate the transition from the very insecure "Current Network Architecture" to the "Proposed HA & Secure Access Architecture"[cite: 5].
-    * **Evidence:** `[Insert Link to Diagram Images Here]` 
+    * **Evidence:**
+         1. **Current Network Usage:** ![Current Network Usage](current%20network%20useage%20V.2.2.png)
+         2. **Proposed HA Architecture:** ![Proposed HA Architecture](HA%20V.1.png)
 * **Artefact 3: Peer and Self-Evaluation Report**
     * **Description:** An introspective piece on team dynamics, peer criticism and my own evaluation of my involvement in Group 3[cite: 6].
-    * **Evidence:** `[Insert Link to Peer Evaluation PDF]`
+    * **Evidence:** [[Sopheaktra_CHEA_12702030_Peer_Evaluation.pdf](https://github.com/cheasopheaktra/Security-Risk-Management-Portfolio/blob/9f622d165a4fedd82b2dc86c13cdefbeb873bb82/Sopheaktra_CHEA_12702030_Peer_Evaluation.pdf)]
 * **Artefact 4: Final Executive Summary & Quantitative Risk Model (Unit 11)**
     * **Description:** The module culminates in a mathematically based Decision Tree risk model and the engineering of a sub-minute RTO/RPO Active-Active Disaster Recovery architecture.
     * **Evidence:** `[Insert Link to Unit 11 Final Report PDF Here]` 
