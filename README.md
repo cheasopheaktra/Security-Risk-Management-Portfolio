@@ -27,7 +27,7 @@ This portfolio demonstrates the achievement of the following learning outcomes:
     * **Evidence:** [Discussion_Summary_Peer_Responses.pdf](Discussion_Summary_Peer_Responses.pdf), [Team_Meeting_Notes_Group3.pdf](Team_Meeting_Notes_Group3.pdf)
 
 * **Unit 11: Final Executive Summary & Quantitative Risk Model**
-    * **Description:** The culmination of the module featuring a Decision Tree risk model, Active-Active Disaster Recovery architecture, and implementation planning.
+    * **Description:** The module culmination featuring a Decision Tree risk model, Active-Active Disaster Recovery architecture, and implementation planning.
     * **Evidence:**
         * **Project Timeline:** ![Project Timeline Gantt Chart](Project%20Timeline%20Gantt%20Chart.png)
         * **Full DR Strategy Report:** [Digitalisation Risk, Quantitative Modelling, and Disaster Recovery v.1.1.pdf](Digitalisation%20Risk%2C%20Quantitative%20Modelling%2C%20and%20Disaster%20Recovery%20v.1.1.pdf)
