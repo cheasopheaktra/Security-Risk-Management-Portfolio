@@ -16,7 +16,7 @@ The following core artefacts explain how my work has progressed from the first a
 
 * **Artefact 1: Risk Identification and Digitalisation Strategy Report (Unit 6)**
     * **Description:** A detailed risk analysis for the client ‘Pampered Pets’ between physical operations and a projected digital transformation. This used the ISO-IEC 27005 framework for physical assets and the STRIDE approach for cloud environments.
-    * **Evidence:** [Risk Identification Report-Group 3.pdf](https://github.com/cheasopheaktra/Security-Risk-Management-Portfolio/blob/main/Risk%20Identification%20Report-Group%203.pdf)
+    * **Evidence:** [[Risk Identification  Report-Group 3.pdf](https://github.com/cheasopheaktra/Security-Risk-Management-Portfolio/blob/9f622d165a4fedd82b2dc86c13cdefbeb873bb82/Risk%20Identification%20%20Report-Group%203.pdf)]
 
 * **Artefact 2: Network & Security Architecture Diagrams** 
     * **Description:** Technical diagrams I created to illustrate the transition from the very insecure "Current Network Architecture" to the "Proposed HA & Secure Access Architecture".
