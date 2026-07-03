@@ -20,7 +20,7 @@ This portfolio demonstrates the achievement of the following learning outcomes:
 ## 2. Artefacts Showcase
 * **Artefact 1: Risk Identification and Digitalisation Strategy Report (Unit 6)**
     * **Description:** A detailed risk analysis for ‘Pampered Pets’ using ISO-IEC 27005 and STRIDE.
-    * **Evidence:** [Risk Identification Report-Group 3.pdf](Risk%20Identification%20Report-Group%203.pdf)
+    * **Evidence:** [Risk Identification Report-Group 3.pdf](Risk%20Identification%20%20Report-Group%203.pdf)
 
 * **Artefact 2: Network & Security Architecture Diagrams**
     * **Description:** Technical diagrams illustrating the transition from insecure legacy systems to a secure, high-availability architecture.
