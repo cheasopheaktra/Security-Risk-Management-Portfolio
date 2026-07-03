@@ -27,7 +27,9 @@ The following core artefacts explain how my work has progressed from the first a
     * **Evidence:** [[Sopheaktra_CHEA_12702030_Peer_Evaluation.pdf](https://github.com/cheasopheaktra/Security-Risk-Management-Portfolio/blob/9f622d165a4fedd82b2dc86c13cdefbeb873bb82/Sopheaktra_CHEA_12702030_Peer_Evaluation.pdf)]
 * **Artefact 4: Final Executive Summary & Quantitative Risk Model (Unit 11)**
     * **Description:** The module culminates in a mathematically based Decision Tree risk model and the engineering of a sub-minute RTO/RPO Active-Active Disaster Recovery architecture.
-    * **Evidence:** `[Insert Link to Unit 11 Final Report PDF Here]` 
+    * **Evidence:** 
+         1. **Project Timeline:** ![Project Timeline Gantt Chart](Project%20Timeline%20Gantt%20Chart.png)  
+         2. **Full DR Strategy Report:** [Digitalisation Risk, Quantitative Modelling, and Disaster Recovery v.1.1.pdf](Digitalisation%20Risk%2C%20Quantitative%20Modelling%2C%20and%20Disaster%20Recovery%20v.1.1.pdf)
 
 --- 
 
