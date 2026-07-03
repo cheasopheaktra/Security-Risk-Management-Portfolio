@@ -6,52 +6,53 @@
 **Module:** Security and Risk Management
 **Date:** July 2026
 
-Welcome to my learning and development e-Portfolio. This page collates the artefacts demonstrating my academic progress, details my individual contributions to group projects, and critically evaluates the evolution of our technical strategies over the duration of this module.
+Welcome to my e-Portfolio for Learning and Development. This page brings together the artefacts that illustrate my academic achievement, outlining my individual contributions to group projects and assessing our technical tactics throughout this module.
 
----
+--- 
 
 ## 1. Artefacts Showcase
 
-To demonstrate the application of knowledge and understanding, the following core artefacts highlight the progression of my work from initial risk identification to advanced disaster recovery engineering:
+The following core artefacts explain how my work has progressed from the first assessment of risk, through to advanced disaster recovery engineering, to show the application of knowledge and understanding:
 
-*   **Artefact 1: Risk Identification and Digitalisation Strategy Report (Unit 6)**
-    *   **Description:** A comprehensive risk assessment for the client 'Pampered Pets' comparing physical operations with a proposed digital transformation[cite: 5]. This utilized the ISO-IEC 27005 framework for physical assets and the STRIDE methodology for cloud environments[cite: 5].
-    *   **Evidence:** `[Insert Link to Risk Identification Report PDF Here]`
-*   **Artefact 2: Network & Security Architecture Diagrams**
-    *   **Description:** Technical schematics I designed to map the transformation from the highly vulnerable "Current Network Architecture" to the "Proposed High Availability (HA) & Secure Access Architecture"[cite: 5].
-    *   **Evidence:** `[Insert Link to Diagram Images Here]`
-*   **Artefact 3: Peer and Self-Evaluation Report**
-    *   **Description:** A reflective document capturing team dynamics, peer feedback, and my self-evaluation of my role within Group 3[cite: 6].
-    *   **Evidence:** `[Insert Link to Peer Evaluation PDF Here]`
-*   **Artefact 4: Final Executive Summary & Quantitative Risk Model (Unit 11)**
-    *   **Description:** The culmination of the module, featuring a mathematically driven Decision Tree risk model and the engineering of a sub-minute RTO/RPO Active-Active Disaster Recovery architecture.
-    *   **Evidence:** `[Insert Link to Unit 11 Final Report PDF Here]`
+* **Artefact 1: Risk Identification and Digitalisation Strategy Report (Unit 6)**
+    * **Description:** A detailed risk analysis for the client ‘Pampered Pets’ between physical operations and a projected digital transformation[cite: 5]. This used the ISO-IEC 27005 framework for physical assets and the STRIDE approach for cloud environments[cite: 5].
+    * **Evidence:** `[Insert Link to Risk Identification Report PDF Here]`
+* **Artefact 2: Network & Security Architecture Diagrams** 
+    * **Description:** Technical diagrams I created to illustrate the transition from the very insecure "Current Network Architecture" to the "Proposed HA & Secure Access Architecture"[cite: 5].
+    * **Evidence:** `[Insert Link to Diagram Images Here]` 
+* **Artefact 3: Peer and Self-Evaluation Report**
+    * **Description:** An introspective piece on team dynamics, peer criticism and my own evaluation of my involvement in Group 3[cite: 6].
+    * **Evidence:** `[Insert Link to Peer Evaluation PDF]`
+* **Artefact 4: Final Executive Summary & Quantitative Risk Model (Unit 11)**
+    * **Description:** The module culminates in a mathematically based Decision Tree risk model and the engineering of a sub-minute RTO/RPO Active-Active Disaster Recovery architecture.
+    * **Evidence:** `[Insert Link to Unit 11 Final Report PDF Here]` 
 
----
+--- 
 
-## 2. Individual Contributions to Group Projects
+## 2. Contributions of Individuals to Group Projects
 
-During the module's collaborative phases, particularly within Group 3, I worked closely with my team member Sarah Khalid[cite: 5]. We established an effective workflow by dividing tasks based on our core strengths; Sarah managed the academic research, while I operated as the lead coordinator for the technical architecture and infrastructure planning[cite: 6].
+During the collaborative stages of the curriculum, I worked with my teammate Sarah Khalid in Group 3[cite: 5]. The division of labor according to our core competencies resulted in a successful workflow. Sarah was in charge of the academic research and I was the main coordinator of the technological architecture and infrastructure planning[cite: 6].
 
-My direct contributions included:
+My direct contributions:
 
 ### A. Technical Security Architecture
-*   I was responsible for designing the "Proposed High Availability (HA) & Secure Access Architecture"[cite: 5]. I engineered the public-facing application path by integrating a Cloud WAF, Elastic Load Balancers, and a Tokenized PCI-DSS Payment Gateway[cite: 5].
-*   For internal security, I designed the access paths requiring hardware endpoint hardening, VLAN segmentation, and an MFA/RBAC authentication engine[cite: 5].
+* I designed the "Proposed High Availability (HA) & Secure Access Architecture"[cite: 5]. 
+* I architected the public-facing application path with Cloud WAF, Elastic Load Balancers and a Tokenized PCI-DSS Payment Gateway[cite: 5].
+* For internal security, I designed the access channels needing hardware endpoint hardening, VLAN segmentation, and an MFA/RBAC authentication engine[cite: 5].
 
-### B. Planning & Strategic Coordination
-*   I structured the technical project timeline, developing an 8-month (32-week) Gantt chart that logically distributed a $50,000 budget across core perimeter defense, HA storefront deployment, and SIEM integration[cite: 5].
-*   I formulated the "Hybrid Supply Chain" compromise strategy, balancing cost-reduction via international hardware suppliers while securing the premium brand identity by retaining local agricultural sources[cite: 5].
+### B. Coordination of Planning & Strategy
+* I created an 8-month (32 week) Gantt chart to properly allocate a $50,000 budget across core perimeter protection, HA storefront deployment and SIEM integration for the technical project timeline[cite: 5].
+* I developed the “Hybrid Supply Chain” compromise strategy, balancing cost-reduction through overseas hardware suppliers while protecting the premium brand identity by retaining local agriculture sources[cite: 5].
 
-### C. Team Dynamics & Peer Evaluation
-*   **Effectiveness:** Our team operated highly effectively due to clear role delegation[cite: 6]. Sarah's proactive communication and clear updates were vital in keeping the project on track and streamlining the final integration[cite: 6].
-*   **Constructive Self-Reflection:** Reflecting on my contributions, I recognized that my greatest strength lies in designing technical security architectures[cite: 6]. Moving forward, my goal is to improve how I balance highly technical system designs with broader executive writing, ensuring that my final reports are shorter and easier to understand for non-technical stakeholders[cite: 6].
+### C. Team Dynamics and Peer Assessment
+* **Validity:** Our team was very effective since we delegated the roles well[cite: 6]. Sarah’s proactive communication and concise updates played an important role in keeping the project on track and expediting the final integration[cite: 6].
+* **Constructive Self-reflection:** I realized, however, that my most significant ability was in creating technological security architectures[cite: 6]. In the future, I want to strengthen my ability to mix highly technical system designs with broader executive writing, making sure my final reports are shorter and easier to digest for non-technical stakeholders[cite: 6].
 
----
+--- 
 
-## 3. Evaluation of Final Project (Unit 11) vs. Initial Status Document (Unit 6)
+## 3. Evaluation of the Final Project (Unit 11) vs Initial Status Document (Unit 6)
 
-Comparing our initial status document (Unit 6 Pampered Pets Report) with the final project output (Unit 11 Executive Summary) reveals a significant maturation in both risk methodology and architectural resilience.
+When we look back at our first document on status (Unit 6 Pampered Pets Report) and compare that with the end output of the project (Unit 11 Executive Summary) we can see a great maturing of risk technique and architectural resilience.
 
-*   **Risk Analysis Methodology:** In Unit 6, our approach was fundamentally qualitative. We utilized ISO 27005 and STRIDE to identify broad categorical risks (e.g., untrusted Wi-Fi gateways and aging hardware end-points)[cite: 5]. By Unit 11, we evolved to a highly rigorous **Quantitative Decision Tree Analysis**. This allowed us to calculate precise mathematical probabilities (e.g., an 8.5% risk of quality loss) and attach direct financial impact metrics, moving from subjective estimation to actionable executive intelligence.
-*   **System Architecture & Disaster Recovery:** The Unit 6 proposal introduced baseline high availability, relying on basic Cloud WAFs and Load Balancers across twin zones[cite: 5]. However, this lacked a concrete Disaster Recovery Service Level Agreement. In Unit 11, the architecture was drastically upgraded to a true **Active-Active Multi-Region Cloud Architecture**. By leveraging Kubernetes containerisation (to prevent vendor lock-in) and synchronous data replication (~12ms latency), the final design guaranteed an aggressive sub-minute RTO and RPO, while strictly enforcing EU Data Sovereignty (GDPR) via geofencing.
+* **Methodology of Risk Analysis:** Our approach in Unit 6 was essentially qualitative. Using ISO 27005 and STRIDE, we identified general category risks (e.g. untrusted Wi-Fi gateways and aging hardware end-points)[cite: 5]. We progressed to a highly rigorous **Quantitative Decision Tree Analysis** by Unit 11. This gave us the ability to derive specific statistical probabilities (e.g. 8.5% probability of quality loss) and assign direct financial impact indicators, shifting away from subjective estimation to actionable executive knowledge.
+* **System Architecture & Disaster Recovery:** The Unit 6 plan provided baseline high availability using simple Cloud WAFs and Load Balancers across dual zones[cite: 5]. However, this was not backed up with a formal Disaster Recovery Service Level Agreement. In Unit 11, the architecture was dramatically improved to a real **Active-Active Multi-Region Cloud Architecture**. The final solution achieved an aggressive sub-minute RTO and RPO using Kubernetes containerisation (avoiding vendor lock-in) and synchronous data replication (~12ms latency), and strongly enforced EU Data Sovereignty (GDPR) via geofencing.
